@@ -12,6 +12,7 @@ string.replace(oldvalue, newvalue, count)
 
 
 -oldvalue => Required. The string to search for.
+
 -newvalue => Required. The string to replace the old value with.
 
 -count    => Optional. A number specifying how many occurrences of the old value you want to replace. Default is all occurrences
